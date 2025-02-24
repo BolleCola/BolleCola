@@ -1,1 +1,2 @@
-OHAYÔ, i'm Bolle Cola a student who learn to code ;).
+OHAYÔ, i'm Bolle Cola a developper from 42 ;).
+(All my repo is private)

@@ -1,2 +1,2 @@
-OHAYÔ, i'm Bolle Cola a developper from 42 ;).
+OHAYÔ, i'm Bolle Cola a web app devlopper who work in Lausanne ;)
 (All my repo is private)
